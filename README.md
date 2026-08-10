@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://github.com/MrBiscuit1503/qr-code-component-main)
-- Live Site URL: [](https://mrbiscuit1503.github.io/qr-code-component-main/)
+- [Solution](https://github.com/MrBiscuit1503/qr-code-component-main)
+- [Live Site](https://mrbiscuit1503.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -37,5 +37,4 @@ It would seem my flexbox knowledge is still lacking. Centering the box verticall
 
 ## Author
 
-- Website - [](https://mrbiscuit1503.github.io/qr-code-component-main/)
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/MrBiscuit1503)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/MrBiscuit1503)
